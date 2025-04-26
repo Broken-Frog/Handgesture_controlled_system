@@ -29,5 +29,5 @@
 | 🖐️ Pinky Finger Only | Space Key |
 
 ## 📦 Setup Instructions
-pip install -r requirements.txt
-python main.py
+-pip install -r requirements.txt
+-python main.py
