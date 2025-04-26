@@ -40,12 +40,12 @@ class GestureHandler:
             return
 
         gesture_map = {
-            (1, 1, 1, 1, 1): action_map.right_arrow,        # Open Palm
-            (0, 0, 0, 0, 0): action_map.left_arrow,         # Fist
-            (1, 1, 0, 0, 1): action_map.close_tab,          # Gun Right
-            (0, 1, 1, 0, 0): action_map.minimize_window,    # ✌️ Index + Middle
+            (1, 1, 1, 1, 1): action_map.right_arrow,        
+            (0, 0, 0, 0, 0): action_map.left_arrow,         
+            (1, 1, 0, 0, 1): action_map.close_tab,          
+            (0, 1, 1, 0, 0): action_map.minimize_window,    
             (1, 1, 0, 0, 0): action_map.recent_tabs,
-            (0, 0, 1, 1, 1): action_map.recent_window,        # 👈 Thumb + Index
+            (0, 0, 1, 1, 1): action_map.recent_window,        
             (1, 0, 0, 0, 0): action_map.enter,
             (0, 0, 0, 0, 1):action_map.space_key,
             (0, 1, 0, 0, 0):action_map.scroll_down
