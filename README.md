@@ -20,7 +20,7 @@
 |:--------|:-------|
 | 🖐️ Open Palm | Move Right (Right Arrow Key) |
 | ✊ Fist | Move Left (Left Arrow Key) |
-| 🤘 Gun Right | Close Window |
+| 🤘 Gun Right | Close Window |  
 | ✌️ Peace Sign | Minimize Window |
 | 👉 Thumb + Index Touch | Recent Tabs |
 | 🧠 Hand Moving Up | Scroll Up |
@@ -29,5 +29,5 @@
 | 🖐️ Pinky Finger Only | Space Key |
 
 ## 📦 Setup Instructions
--pip install -r requirements.txt
--python main.py
+pip install -r requirements.txt 
+python main.py
