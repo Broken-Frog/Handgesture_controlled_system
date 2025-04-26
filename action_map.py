@@ -5,7 +5,7 @@ import time
 def right_arrow():
     print("Gesture: Open Palm → Right Arrow")
     pyautogui.keyDown('right')
-    time.sleep(0.85)
+    time.sleep(0.15)
     pyautogui.keyUp('right')
     
 
